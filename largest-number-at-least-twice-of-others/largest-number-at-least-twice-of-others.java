@@ -1,7 +1,6 @@
 class Solution {
     public int dominantIndex(int[] nums) {
-        
-        int max = 0;
+         int max = 0;
         int index = 0;
         boolean isAtLeastTwice = false;
         
